@@ -1,0 +1,42 @@
+/* CSS/style.css */
+
+/* Style for the body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Style for the main header */
+h1 {
+    color: #1e90ff;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Style for paragraph text */
+p {
+    font-size: 18px;
+    margin: 10px 20px;
+}
+
+/* Style for any links */
+a {
+    color: #1e90ff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Basic container styling */
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+<link rel="stylesheet" href="file/path/to/your/css.css">
+}

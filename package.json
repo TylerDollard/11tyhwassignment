@@ -1,0 +1,21 @@
+{
+  "name": "11tyhwassignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy",
+    "deploy": "gh-pages -d _site",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
